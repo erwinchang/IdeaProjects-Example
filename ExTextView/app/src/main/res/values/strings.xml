@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ExTextView</string>
+    <string name="yes"> YES! </string>
+    <string name="hello_world">Hello \n World</string>
+    <string name="taiwan_no_1">Taiwan NO.1</string>
 </resources>
