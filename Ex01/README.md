@@ -43,4 +43,8 @@ ctrl+o
 
 ![Imgur](https://i.imgur.com/GyXze6F.png)
 
+測試結果如下
+
+![Imgur](https://i.imgur.com/F2PMaAW.png)
+
 [1]:https://litotom.com/2017/07/31/ch7-4-menu/
