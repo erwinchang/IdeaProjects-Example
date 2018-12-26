@@ -13,4 +13,6 @@
 - 1-1 ExTextView  
 增加textview範例
 
+- 1-2 ExButton  
+
 [1]:https://goo.gl/HRvKQX
