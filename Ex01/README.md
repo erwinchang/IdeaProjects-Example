@@ -13,9 +13,9 @@
 ### 1-0 新增加menu
 
 - 來源：[實作Activity上方選單Menu與下拉項目功能][1]
-在Activity出現在畫面之前，會自動呼叫Activitiy的「onCreateOptionsMenu」方法
-方法的參數帶來一個menu物件
-當按下選單中的任一個項目時，會自動呼叫Activity的onOptionsItemSelected方法
+在Activity出現在畫面之前，會自動呼叫Activitiy的「onCreateOptionsMenu」方法  
+方法的參數帶來一個menu物件  
+當按下選單中的任一個項目時，會自動呼叫Activity的onOptionsItemSelected方法  
 
 
 使用IDEA建立Menu方式如下
